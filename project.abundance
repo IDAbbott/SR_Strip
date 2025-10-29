@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "SR_Strip",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "cdb84424-e62c-4097-b3db-20ce23d8dcce",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
